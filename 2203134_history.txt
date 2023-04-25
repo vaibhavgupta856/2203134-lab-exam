@@ -1,0 +1,141 @@
+    1  cd
+    2  cd/
+    3  cd /
+    4  ls -al
+    5  cd ..
+    6  ls -al
+    7  cd 
+    8  ls -al
+    9  cd ..
+   10  ls -al
+   11  cd 2203321
+   12  ls -al
+   13  cd webpage/
+   14  ls -al
+   15  cat sarathakare.github.io/
+   16  cd sarathakare.github.io/
+   17  ls -al
+   18  cd .git
+   19  ls -al
+   20  cd ..
+   21  ls -al
+   22  cat README.md 
+   23  q
+   24  cd
+   25  ls -al
+   26  cd /
+   27  ls -al
+   28  cd ../2203107
+   29  ls -la
+   30  cd ishitachail.github.io/
+   31  ls -la
+   32  cat README.md 
+   33  ls -al
+   34  cd ..
+   35  cd 
+   36  ls -la
+   37  ssh-keygen -t RSA
+   38  cd .ssh
+   39  cat id_rsa.pub 
+   40  less id_rsa.pub 
+   41  git clone git@github.com:vaibhavgupta856/2203134-lab-exam.git
+   42  cd
+   43  git clone git@github.com:vaibhavgupta856/2203134-lab-exam.git
+   44  ls -al
+   45  cd 2203134-lab-exam/
+   46  ls -al
+   47  cat >> README.md 
+   48  git pull git@github.com:vaibhavgupta856/2203134-lab-exam.git
+   49  cat README.md 
+   50  ls -al
+   51  cd
+   52  mkdir new
+   53  cd new/
+   54  git pull git@github.com:vaibhavgupta856/2203134-lab-exam.git
+   55  cd
+   56  cd 2203134-lab-exam/
+   57  ls -al
+   58  git pull git@github.com:vaibhavgupta856/2203134-lab-exam.git
+   59  ls -al
+   60  git pull https://github.com/tusharlone/cs102-git-essentials.git
+   61  ls -al
+   62  git pull https://github.com/tusharlone/cs102-git-essentials.git
+   63  ls -al
+   64  git pull https://github.com/tusharlone/cs102-git-essentials.git
+   65  ls -al
+   66  git pull git@github.com:tusharlone/cs102-git-essentials.git
+   67  ls -al
+   68  cd
+   69  git clone git@github.com:tusharlone/cs102-git-essentials.git
+   70  ls -al
+   71  cd cs102-git-essentials/
+   72  ls -al
+   73  cp ca_500.csv 2203134-lab-exam
+   74  cp us_500.csv 2203134-lab-exam
+   75  cd
+   76  cd 2203134-lab-exam/
+   77  ls -al
+   78  cd
+   79  cd cs102-git-essentials/
+   80  ls -al
+   81  cp ~/cs102-git-essentials/us_500.csv ~/2203134-lab-exam/
+   82  ls -al
+   83  cd
+   84  cd 2203134-lab-exam
+   85  ls -al
+   86  cd
+   87  cd cs102-git-essentials/
+   88  cp ~/cs102-git-essentials/ca_500.csv ~/2203134-lab-exam/
+   89  cd
+   90  cd 2203134-lab-exam
+   91  ls -al
+   92  ls -al
+   93  cd 2203134-lab-exam/
+   94  cat us_500.csv 
+   95  wc -l us_500.csv 
+   96  grep us_500.csv 
+   97  less us_500.csv
+   98  less us_500.csv | head -n 1
+   99  wc -l ca_500.csv 
+  100  less ca_500.csv | head -n 1
+  101  grep "Montreal" ca_500.csv 
+  102  cat >> ca_city_Montreal.csv
+  103  cat > ca_city_Montreal.csv
+  104  history
+  105  cd 2203134-lab-exam/
+  106  cat us_500.csv 
+  107  less us_500.csv 
+  108  vim 2203134_data_filter.sh
+  109  bash 2203134_data_filter.sh
+  110  vim 2203134_data_filter.sh
+  111  bash 2203134_data_filter.sh
+  112  vim 2203134_data_filter.sh
+  113  bash 2203134_data_filter.sh
+  114  vim 2203134_data_filter.sh
+  115  bash 2203134_data_filter.sh
+  116  vim 2203134_data_filter.sh
+  117  bash 2203134_data_filter.sh
+  118  ls -al
+  119  cat Orleans.csv 
+  120  vim 2203134_data_filter.sh
+  121  bash 2203134_data_filter.sh
+  122  ls -al
+  123  vim 2203134_data_filter.sh
+  124  ls -al
+  125  vim 2203134_data_filter.sh
+  126  bash 2203134_data_filter.sh
+  127  vim 2203134_data_filter.sh
+  128  bash 2203134_data_filter.sh
+  129  mkdir code
+  130  mkdir data
+  131  mv ~/2203134-lab-exam/*.sh ~/2203134-lab-exam/code
+  132  mv ~/2203134-lab-exam/*.csv ~/2203134-lab-exam/data
+  133  ls -al
+  134  cd code
+  135  ls -al
+  136  cd ..
+  137  cd data
+  138  ls -al
+  139  cd ..
+  140  touch 2203134_history.txt
+  141  history | cat >> 2203134_history.txt 

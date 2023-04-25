@@ -1,0 +1,17 @@
+answer 5 ) 501 us_500.csv
+501 ca_500.csv
+answer 6) "first_name","last_name","company_name","address","city","county","state","zip","phone1","phone2","email","web"
+"first_name","last_name","company_name","address","city","province","postal","phone1","phone2","email","web"
+answer 7) "Mammie","Cisney","Arellano, Cecilia S Md","14 E 30th St","Montreal","QC","H1E 1R4","514-205-4258","514-841-9635","mammie@cox.net","http://www.arellanoceciliasmd.com"
+"Tesha","Brang","Butler Tool & Design Inc","831 Vanowen St #5","Montreal","QC","H4K 2N2","514-432-5290","514-232-9502","tesha@aol.com","http://www.butlertooldesigninc.com"
+"Harris","Sheck","New Lans Corporation","9875 Sheafe Rd","Montreal","QC","H2H 1Z2","514-257-9319","514-774-5902","harris@cox.net","http://www.newlanscorporation.com"
+"Maddie","Foulds","Sinclair Machine Products Inc","56 N Wood Ave #25","Montreal","QC","H2M 1W9","514-874-9519","514-545-7912","maddie@hotmail.com","http://www.sinclairmachineproductsinc.com"
+"Steffanie","Meinen","Rosenblum, Donn D Esq","801 W Belmont Ave","Montreal","QC","H3C 5G9","514-964-9106","514-644-9120","steffanie.meinen@cox.net","http://www.rosenblumdonndesq.com"
+"Val","Bigaud","Mpsi Systems Inc","42 N 16th St #620","Montreal","QC","H2C 3A1","514-726-2573","514-233-5869","val_bigaud@aol.com","http://www.mpsisystemsinc.com"
+"Denny","Zeanah","Associated Brokers Inc","339 W 1st St","Montreal","QC","H2Z 1P5","514-224-2722","514-928-4314","denny_zeanah@zeanah.com","http://www.associatedbrokersinc.com"
+"Luann","Michon","Macnaughton Einson Graphics","5 Goddard Rd","Montreal","QC","H2S 2G9","514-578-7262","514-640-1941","luann@cox.net","http://www.macnaughtoneinsongraphics.com"
+"Verona","Jobst","M C Green & Sons","9041 Grand Plaza Plac","Montreal","QC","H3V 1E3","514-842-7487","514-879-3678","verona_jobst@jobst.org","http://www.mcgreensons.com"
+"Rikki","Montalgo","Emergency Management","7 Lagrange St #10","Montreal","QC","H2K 3M3","514-472-6857","514-563-2884","rikki@montalgo.com","http://www.emergencymanagement.com"
+"Ricki","Traux","Collins, Frederick H Esq","995 Concord Rd","Montreal","QC","H3J 1S4","514-657-1920","514-784-4720","ricki.traux@traux.com","http://www.collinsfrederickhesq.com"
+"Clemencia","Momplaisir","Computer System Dynamics","698 N Allen Rd","Montreal","QC","H3J 2N8","514-804-3533","514-427-6426","cmomplaisir@yahoo.com","http://www.computersystemdynamics.com"
+
